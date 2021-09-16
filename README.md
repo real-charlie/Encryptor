@@ -1,0 +1,2 @@
+# encryptor
+Very Simple Ransomware
